@@ -1,2 +1,3 @@
 # Data-Science
 Data Science (Data Analysis)
+I have completed a 3months course in data analysis and visualization with 3MTT. Here are some of the practical works i did. The tools i used are python, anaconda and jupyther notebook. The libraries used include pandas, numpy....
